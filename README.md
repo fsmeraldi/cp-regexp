@@ -18,4 +18,10 @@ Use the green Code button to download, click on the individual notebooks to see 
 8. [Errors and Exceptions](https://github.com/fsmeraldi/cp-exceptions)
 9. **Regular Expressions** - this repository
 
-(C)2014,2022 [Fabrizio Smeraldi](https://www.eecs.qmul.ac.uk/~fabri/), all rights reserved.
+
+### Embedded videos
+
+For your convenience, all the videos embedded in these notebooks are also available as a YouTube [playlist](https://youtube.com/playlist?list=PLvkILgfJvxBQt9t7J7zw03b0S2R_lpZpD&si=M5GTCUwV-Xx9K1XQ).
+
+
+(C)2014,2023 [Fabrizio Smeraldi](https://www.eecs.qmul.ac.uk/~fabri/), all rights reserved.
